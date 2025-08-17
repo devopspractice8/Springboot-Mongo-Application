@@ -33,7 +33,5 @@ docker-compose up -d
 docker ps -a
 ```
 
-
-
 ## License
 [Mithun Technologies](http://mithuntechnologies.co.in)
